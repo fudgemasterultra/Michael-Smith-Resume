@@ -26,17 +26,18 @@ Senior full-stack engineer with 6+ years building and shipping production applic
 ## Experience
 
 ### Senior Software Engineer — Creative Energy
-*May 2023 – Present · Johnson City–Kingsport–Bristol Area*
+
+_May 2023 – Present · Johnson City–Kingsport–Bristol Area_
 
 - Own full-stack development for tourism-focused interactive kiosks, driving measurable increases in regional visitor engagement.
-- Architected and shipped a touch-free kiosk interface using Next.js, TypeScript, and Python, expanding accessibility for users in public spaces.
 - Established reusable project templates and architectural patterns adopted across the team, cutting new-project setup time and standardizing engineering practices.
 - Lead maintenance and modernization of Drupal/PHP websites, balancing legacy stability with ongoing improvement.
 - Integrated third-party services (Google Maps, weather APIs) to extend kiosk functionality and interactivity.
 - Mentor a junior developer through documented workflows and pair programming, improving onboarding speed and code quality across the team.
 
 ### Software Engineer — 24 Hour Self Storage
-*August 2020 – November 2022 · Johnson City–Kingsport–Bristol Area*
+
+_August 2020 – November 2022 · Johnson City–Kingsport–Bristol Area_
 
 - Built and maintained the company website and internal tooling with TypeScript, PHP, and Python, driving a meaningful increase in online conversions.
 - Designed and shipped an automated customer onboarding system integrated with the company's PMS and SMS alerts, enabling 24/7 self-service rentals and substantially reducing manual check-ins.
@@ -44,9 +45,23 @@ Senior full-stack engineer with 6+ years building and shipping production applic
 - Streamlined back-office operations by automating recurring processes including billing and access management.
 - Consumed and extended legacy SOAP APIs to enable third-party integrations with SiteLink and internal dashboards.
 
-### Software Engineer (Freelance) — Michael Smith Web Design
-*January 2020 – Present · Johnson City–Kingsport–Bristol Area*
+---
 
-- Deliver freelance full-stack development for clients alongside full-time work, owning projects end to end.
-- Owned the user-facing UI for Maia, a vectorized job-matching platform built on a Python/Django stack with pgvector, and contributed to the vectorization pipeline and request-queuing system.
-- Developed a Moodle LMS integration plugin enabling users to migrate and link their existing accounts into the platform.
+## Notable Projects
+
+### Maia — Vectorized Job-Matching Platform
+
+Owned the user-facing UI for a job-matching platform that pairs candidates to roles using vector similarity search. Also contributed to the vectorization pipeline and the request-queuing system that powers matching at scale.
+**Tech:** Python, Django, pgvector, TypeScript, React
+
+### Touchless Interactive Kiosk — Johnson City Visitors Center
+
+_Sole developer._ Designed and built a fully touchless, interactive kiosk from the ground up, expanding accessibility for visitors in a public space. Owned the project end to end—architecture through deployment.
+**Tech:** Svelte, TypeScript, Python
+🏆 **Part of the Johnson City Visitors Center installation — American Advertising Awards (ADDY) Best in Show, advanced to regional competition.**
+
+### Immersive Panorama Experience — Johnson City Visitors Center
+
+_Supporting engineer (second of two)._ Contributed to a fully immersive, room-scale panorama driven by a real-time Unity 3D scene. The experience used ZED stereo depth cameras to track visitors' physical positions, letting people interact with the environment simply by moving closer to it—no touch required.
+**Tech:** Unity 3D, C#, ZED SDK (stereo depth cameras)
+🏆 **Part of the Johnson City Visitors Center installation — American Advertising Awards (ADDY) Best in Show, advanced to regional competition.**
